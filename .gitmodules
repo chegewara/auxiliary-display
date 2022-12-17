@@ -1,0 +1,8 @@
+[submodule "components/ESP32-HUB75-MatrixPanel-DMA"]
+	path = components/ESP32-HUB75-MatrixPanel-DMA
+	url = git@github.com:chegewara/ESP32-HUB75-MatrixPanel-DMA.git
+	branch = support_esp_idf
+[submodule "components/esp32-usb-v2"]
+	path = components/esp32-usb-v2
+	url = git@github.com:chegewara/esp32-usb-v2.git
+	branch = temp_esp_idf
